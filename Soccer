@@ -28,23 +28,11 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
-        "id": "MuGsekDRvoJ4",
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "outputId": "d07ce295-7635-411f-ed06-69bc19be82cb"
+        "id": "MuGsekDRvoJ4"
       },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Hi\n"
-          ]
-        }
-      ],
+      "outputs": [],
       "source": [
         "print(\"Hi\")"
       ]
